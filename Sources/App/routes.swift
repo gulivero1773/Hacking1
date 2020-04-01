@@ -72,5 +72,5 @@ struct AdminCollection: RouteCollection {
             return "Editing article \(num)"
         }
     }
-}
-/// HAcking
+} ///Del
+
